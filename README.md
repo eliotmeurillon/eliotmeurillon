@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eliot.meurillon@gmail.com**
 
-- 📄 Know about my experiences [https://white-naomi-63.tiiny.site/](https://white-naomi-63.tiiny.site/)
+- 📄 Know about my experiences : [link to my resume](https://white-naomi-63.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
