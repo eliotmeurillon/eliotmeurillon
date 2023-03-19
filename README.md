@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eliot Meurillon</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-- 🔭 I’m currently working on [my portfolio website](eliotmeurillon.tech)
+- 🔭 I’m currently working on [my portfolio website](https://eliotmeurillon.tech)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [eliotmeurillon.tech](eliotmeurillon.tech)
+- 👨‍💻 All of my projects are available at [eliotmeurillon.tech](https://eliotmeurillon.tech)
 
 - 📫 How to reach me **eliot.meurillon@gmail.com**
 
