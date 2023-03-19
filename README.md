@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliot Meurillon</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-- 🔭 I’m currently working on <a href=https://eliotmeurillon.tech/" target="_blank">my portfolio website</a>
+- 🔭 I’m currently working on <a href="https://eliotmeurillon.tech/" target="_blank">my portfolio website</a>
 
 - 🌱 I’m currently learning **Flutter**
 
