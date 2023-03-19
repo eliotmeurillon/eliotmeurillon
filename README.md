@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eliot Meurillon</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://eliotmeurillon.tech)
+- 🔭 I’m currently working on [my portfolio website](https://eliotmeurillon.tech){:target="_blank"}
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [eliotmeurillon.tech](https://eliotmeurillon.tech)
+- 👨‍💻 All of my projects are available at [eliotmeurillon.tech](https://eliotmeurillon.tech){:target="_blank"}
 
 - 📫 How to reach me **eliot.meurillon@gmail.com**
 
-- 📄 Know about my experiences : [link to my resume](https://white-naomi-63.tiiny.site/)
+- 📄 Know about my experiences : [link to my resume](https://white-naomi-63.tiiny.site/){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
